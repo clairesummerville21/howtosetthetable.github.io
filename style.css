@@ -3,3 +3,7 @@ body {
     background-color: #FDA892;
     background-image: url("indexbgimage.png");
 }
+
+.indexbgimage.png{
+    display: block;
+}
