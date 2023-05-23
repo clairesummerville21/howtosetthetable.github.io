@@ -4,8 +4,6 @@ body {
     background-image: url("indexbgimage.png");
 }
 
-div.htstttitle {
-    height: 50px;
-    
-
+img{
+    width: 100%;
 }
