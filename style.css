@@ -17,7 +17,8 @@ body {
 div.ivheading{
     font-family: 'voxel', sans-serif;
     color: #A6FF90;
-    margin: 200;
+    font-size: 200px;
+    margin-left: 200;
     padding-bottom: 50px;
 }
 
