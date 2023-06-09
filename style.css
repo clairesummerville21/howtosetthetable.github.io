@@ -36,6 +36,7 @@ img {
     content: "";
     clear: both;
     display: table;
+    margin-bottom: -100px;
   }
 
 div.instructionalvideo {
