@@ -1,3 +1,9 @@
+@font-face {
+    font-family: 'voxel';
+    src: url(fonts/voxel.ttf) format('truetype'),
+         url(fonts/voxel.otf) format('otf');
+}
+
 header {
     margin-bottom: -100px;
 }
@@ -6,6 +12,13 @@ body {
     margin: 0;
     background-color: #FDA892;
     background-image: url("indexbgimage.png");
+}
+
+div.ivheading{
+    font-family: 'voxel', sans-serif;
+    color: #A6FF90;
+    margin: 200;
+    padding-bottom: 50px;
 }
 
 img {
