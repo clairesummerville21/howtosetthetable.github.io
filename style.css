@@ -18,7 +18,8 @@ div.ivheading{
     font-family: 'voxel', sans-serif;
     color: #A6FF90;
     font-size: 45px;
-    margin-left: 200px;
+    margin-left: 215px;
+    padding-top: 20px;
     padding-bottom: 50px;
 }
 
@@ -41,7 +42,7 @@ img {
   }
 
 div.instructionalvideo {
-    margin-left: 200px;
+    margin-left: 215px;
     
 }
 
