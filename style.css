@@ -47,4 +47,13 @@ div.instructionalvideo {
     
 }
 
+div.ighint{
+    font-family: 'voxel', sans-serif;
+    color: #A6FF90;
+    font-size: 10px;
+    margin-left: 215px;
+    margin-top: -10px;
+    padding-bottom: 10px;
+}
+
 
